@@ -1,0 +1,72 @@
+# Hi there, I'm Md. Arafat Hossen! 👋
+
+<!--- ব্যানার ইমেজ (এখানে আপনার তৈরি করা বা পছন্দমতো ব্যানারের লিংক বসাবেন) --->
+![Banner](https://images.unsplash.com/photo-1618477388954-7852f32655ec?q=80&w=1200&auto=format&fit=crop)
+
+## 🚀 Full Stack & MERN Developer
+A passionate developer who loves building modern, scalable, and user-friendly web applications.
+
+---
+
+### 👨‍💻 About Me
+- 🎯 Focused on creating high-performance frontend interfaces and robust backend architectures.
+- 💡 Specialized in the MERN stack (MongoDB, Express.js, React, Node.js) and modern web technologies.
+- ⚡ I thrive on solving complex problems, writing clean code, and constantly learning new frameworks.
+
+### 🌟 Current Activities
+- 🧭 Exploring Next.js to master Server-Side Rendering (SSR) and Static Site Generation (SSG).
+- 🗺️ Working on a feature-rich tourism website with dynamic booking capabilities.
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### 💻 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30"/>
+</p>
+
+#### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="30"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white" alt="Express.js" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" height="30"/>
+</p>
+
+#### 🔧 Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" height="30"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" height="30"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" height="150"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radial" alt="GitHub Streak" height="150"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
