@@ -45,18 +45,7 @@ A passionate developer who loves building modern, scalable, and user-friendly we
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" height="150"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radial" alt="GitHub Streak" height="150"/>
-</p>
 
 ---
 
