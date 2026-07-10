@@ -54,7 +54,10 @@ A passionate developer who loves building modern, scalable, and user-friendly we
 ```
   aarafat7864@gmail.com
 ```
-💼 **LinkedIn:**  ```linkedin.com/in/arafat404```
+💼 **LinkedIn:**  
+```
+https://www.linkedin.com/in/arafat404
+```
 
 ---
 *💡 If you wish, you can also contact me directly by clicking on the links below:*
