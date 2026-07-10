@@ -1,6 +1,6 @@
 # Hi there, I'm Md. Arafat Hossen! 👋
 
-![Banner](https://i.ibb.co.com/B55nBQBW/Navy-Blue-Gradient-Personal-Linked-In-Banner.png)
+![Banner](https://i.ibb.co.com/0ygpFb7c/Gemini-Generated-Image-jqwofpjqwofpjqwo2.png)
 
 ## 🚀 Full Stack & MERN Developer
 A passionate developer who loves building modern, scalable, and user-friendly web applications.
