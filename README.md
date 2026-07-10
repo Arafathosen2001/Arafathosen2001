@@ -51,8 +51,9 @@ A passionate developer who loves building modern, scalable, and user-friendly we
 
 ### 🌐 Connect & Contact
 
-```text
+```
 📬 Email:     aarafat7864@gmail.com
+```
 💼 LinkedIn:  linkedin.com/in/arafat404
 🌐 Portfolio: your-portfolio-link.com
 📄 Resume:    your-resume-drive-link.com
