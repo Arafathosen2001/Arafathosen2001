@@ -62,5 +62,5 @@ https://www.linkedin.com/in/arafat404
 ---
 *💡 If you wish, you can also contact me directly by clicking on the links below:*
 
-- 📧 [Send Email](aarafat7864@gmail.com)
+- 📧 [Send Email](mailto:aarafat7864@gmail.com)
 - 🚀 [Visit LinkedIn](https://www.linkedin.com/in/arafat404)
