@@ -49,12 +49,17 @@ A passionate developer who loves building modern, scalable, and user-friendly we
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/arafat404" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="aarafat7864@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+### 🌐 Connect & Contact
+
+📬 **Email:** `aarafat7864@gmail.com`
+💼 **LinkedIn:** `linkedin.com/in/arafat404`
+🌐 **Portfolio:** `your-portfolio-link.com`
+📄 **Resume:** `your-resume-drive-link.com`
+
+---
+*💡 If you wish, you can also contact me directly by clicking on the links below:*
+
+- 📧 [Send Email](mailto:aarafat7864@gmail.com)
+- 🚀 [Visit LinkedIn](https://www.linkedin.com/in/arafat404)
+- 🖥️ [View Portfolio](https://your-portfolio-link.com)
+- 📥 [Download Resume](https://your-resume-drive-link.com)
