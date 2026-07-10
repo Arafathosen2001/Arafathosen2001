@@ -1,7 +1,6 @@
 # Hi there, I'm Md. Arafat Hossen! 👋
 
-<!--- ব্যানার ইমেজ (এখানে আপনার তৈরি করা বা পছন্দমতো ব্যানারের লিংক বসাবেন) --->
-![Banner]([https://images.unsplash.com/photo-1618477388954-7852f32655ec?q=80&w=1200&auto=format&fit=crop](https://i.ibb.co.com/B55nBQBW/Navy-Blue-Gradient-Personal-Linked-In-Banner.png))
+![Banner](https://i.ibb.co.com/B55nBQBW/Navy-Blue-Gradient-Personal-Linked-In-Banner.png)
 
 ## 🚀 Full Stack & MERN Developer
 A passionate developer who loves building modern, scalable, and user-friendly web applications.
