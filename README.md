@@ -84,44 +84,41 @@
 
 # 🚀 Featured Projects
 
-### 🌟 Digital Life Lessons
-*Modern Full Stack Learning Platform*
+### 📚 Book Borrowing Management System
+*A complete web platform for managing library transactions and book borrowings.*
 
-- **Key Contributions:** Integrated **Better Auth** for secure multi-role authentication; built optimized server-side rendered routes in Next.js for maximum performance.
-- **Features:** Dynamic course architecture, real-time tracking, and responsive UI.
-- **Tech Stack:** Next.js, TypeScript, MongoDB, Better Auth, Tailwind CSS
+- **Key Features:** User authentication, book availability tracking, smooth borrowing/returning workflow, and database management.
+- **Tech Stack:** Node.js, Express, MongoDB, JavaScript / React
 
-🔗 [Live Demo](<YOUR_LIVE_LINK>) | 🐙 [GitHub Repository](<YOUR_REPO_LINK>)
+🐙 [GitHub Repository](https://github.com/Arafathosen2001/book-borrowing) | 🔗 [Live Demo](https://book-borrowing-eta.vercel.app)
 
 ---
 
-### 🌍 Tourism Management Website
-*Feature-rich tourism & booking platform*
+### 🩺 Doctor Appointment Booking System
+*An efficient healthcare platform for patient-doctor scheduling.*
 
-- **Key Contributions:** Designed complex RESTful endpoints for booking workflows and user management with custom validation middleware.
-- **Features:** Interactive trip packages, dynamic search filters, and smooth payment integration flow.
+- **Key Features:** Doctor schedule management, real-time appointment booking, patient portal, and status updates.
 - **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
 
-🔗 [Live Demo](<YOUR_LIVE_LINK>) | 🐙 [GitHub Repository](<YOUR_REPO_LINK>)
+🐙 [GitHub Repository](https://github.com/Arafathosen2001/doctor-appointment) | 🔗 [Live Demo](https://doctor-appointment-five-topaz.vercel.app)
 
 ---
 
-### 🤖 Agentic AI Dashboard
-*AI-powered dashboard with intelligent multi-agent tasks*
+### 🌟 Digital Life Lessons
+*Modern Full Stack Educational Platform Frontend.*
 
-- **Key Contributions:** Connected Gemini API with custom prompt pipelines to process dynamic user requests asynchronously.
-- **Features:** Real-time AI response rendering, query history storage, and agent analytics.
-- **Tech Stack:** Next.js, Gemini API, TypeScript, MongoDB, Tailwind CSS
+- **Key Features:** Clean SSR/SSG rendering, responsive course interface, dynamic content fetching, and auth integration.
+- **Tech Stack:** Next.js, TypeScript, React, Tailwind CSS
 
-🔗 [Live Demo](<YOUR_LIVE_LINK>) | 🐙 [GitHub Repository](<YOUR_REPO_LINK>)
+🐙 [GitHub Repository](https://github.com/Arafathosen2001/digital-life-lessons-client) | 🔗 [Live Demo](https://digital-life-lessons-sigma.vercel.app)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arafathosen2001&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafathosen2001&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Arafathosen2001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arafathosen2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -129,7 +126,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Arafathosen2001&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Arafathosen2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -137,18 +134,11 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafathosen2001&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafathosen2001&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Arafathosen2001&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
@@ -172,12 +162,6 @@
 # 💡 Quote
 
 > "Code is not just about solving problems; it's about creating experiences."
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Arafathosen2001&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
