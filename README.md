@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="<YOUR_RESUME_LINK>" target="_blank">
+  <a href="https://docs.google.com/document/d/1xarkzZxc2mjKwg5CHe55o1BMxPfzYtjYZDw1iW_y71A/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_Resume-007ACC?style=for-the-badge&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://www.linkedin.com/in/arafat404" target="_blank">
@@ -143,7 +143,7 @@
 # 📫 Connect With Me
 
 <p>
-<a href="<YOUR_RESUME_LINK>" target="_blank">
+<a href="https://docs.google.com/document/d/1xarkzZxc2mjKwg5CHe55o1BMxPfzYtjYZDw1iW_y71A/edit?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 <a href="mailto:aarafat7864@gmail.com">
